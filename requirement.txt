@@ -1,0 +1,16 @@
+torch
+transformers
+scikit-learn
+pandas
+numpy
+tqdm
+matplotlib
+seaborn
+torchvision
+jupyter
+notebook
+flask
+uvicorn
+fastapi
+requests
+
